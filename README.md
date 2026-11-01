@@ -13,6 +13,8 @@ Adesso sono le 21:00 ...
 
 Dopo circa 8 h di programmazione non stop (delle quali circa la meta sono state dovute a problemi con le dipendeze come SDL3, Volk etc) sono riuscito a concludere il progetto.
 
+La differenza di complessità con OpenGL è impressionante prima ti puoi appoggiare sui suoi driver che ti semplificano di molto la vita, ma con vulkan tu sei il driver.
+
 Alla fine ho optato per usare vcpkg per le dipendenza cosi da avere una libreria che me le controlla in automatico mettendo tutti i file necessari nella cartella build.
 
 ## Quello che non si vede
@@ -46,3 +48,5 @@ La difficolta di apprendimento di sintassi e di debug pero sono compensate dalle
 ## Il miraggio
 
 ![](img/image.png)
+
+## "Con vulkan tu sei il driver"
