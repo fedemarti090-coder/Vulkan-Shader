@@ -1,0 +1,17 @@
+{
+  "name": "vulkan-intro",
+  "version": "1.0.0",
+  "dependencies": [
+    {
+      "name": "sdl3",
+      "features": [
+        "vulkan"
+      ]
+    },
+    "glm",
+    "vulkan",
+    "volk",
+    "shaderc",
+    "vulkan-memory-allocator"
+  ]
+}
