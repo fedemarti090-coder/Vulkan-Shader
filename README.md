@@ -48,5 +48,3 @@ La difficolta di apprendimento di sintassi e di debug pero sono compensate dalle
 ## Il miraggio
 
 ![](img/image.png)
-
-## "Con vulkan tu sei il driver"
