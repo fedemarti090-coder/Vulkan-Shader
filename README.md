@@ -45,6 +45,5 @@ Magari un domani riprendero le mie orme con vulkan chi lo sa, ma avere progetti 
 
 La difficolta di apprendimento di sintassi e di debug pero sono compensate dalle prestazini e feature moderne che offre.
 
-## Il miraggio
 
 ![](img/image.png)
